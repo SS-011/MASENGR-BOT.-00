@@ -1,0 +1,10 @@
+node_modules/
+.replit
+replit.nix
+.cache/
+*.log
+.env
+.upm/
+rdx/commands/NEW COMMANDS/
+rdx/commands/cache/
+Data/appstate.json
